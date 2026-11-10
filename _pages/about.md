@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='www.linkedin.com/in/isaacgonzalez67'>LinkedIn</a>   |   "To inspire others is the greatest form of leadership"
+subtitle: <a href='https:///linkedin.com/in/isaacgonzalez67'>LinkedIn</a>   |   "To inspire others is the greatest form of leadership"
 
 profile:
   align: right
