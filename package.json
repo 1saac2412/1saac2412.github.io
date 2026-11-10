@@ -3,30 +3,6 @@
   "version": "1.0.0",
   "description": "My Portfolio Website",
   "main": "purgecss.config.js",
-  "bin": {
-    "1saac2412.github.io": "bin/capture_screenshots.js"
-  },
-  "directories": {
-    "doc": "docs",
-    "test": "test"
-  },
-  "repository": {
-    "type": "git"
-  },
-  "devDependencies": {
-    "@playwright/test": "^1.56.1",
-    "@shopify/prettier-plugin-liquid": "^1.11.4",
-    "pixelmatch": "^7.1.0",
-    "pngjs": "^7.0.0",
-    "prettier": "^3.9.10"
-  }
-}
-
-{
-  "name": "1saac2412.github.io",
-  "version": "1.0.0",
-  "description": "My Portfolio Website",
-  "main": "purgecss.config.js",
   "scripts": {
     "build": "bundle exec jekyll build",
     "test": "playwright test"
