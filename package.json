@@ -1,20 +1,7 @@
 {
-  "scripts": {
-    "lint:prettier": "prettier . --check",
-    "lint:style-contract": "node test/style_contract.js",
-    "test:visual": "playwright test --config test/visual/playwright.config.js",
-    "test:visual:update": "playwright test --config test/visual/playwright.config.js --update-snapshots"
-  },
-  "devDependencies": {
-    "@playwright/test": "^1.56.1",
-    "@shopify/prettier-plugin-liquid": "^1.11.4",
-    "pixelmatch": "^7.1.0",
-    "pngjs": "^7.0.0",
-    "prettier": "^3.9.10"
-  },
   "name": "1saac2412.github.io",
-  "description": "My Porfolio Website",
   "version": "1.0.0",
+  "description": "My Portfolio Website",
   "main": "purgecss.config.js",
   "bin": {
     "1saac2412.github.io": "bin/capture_screenshots.js"
@@ -24,14 +11,13 @@
     "test": "test"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/1saac2412/1saac2412.github.io.git"
+    "type": "git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/1saac2412/1saac2412.github.io/issues"
-  },
-  "homepage": "https://github.com/1saac2412/1saac2412.github.io#readme"
+  "devDependencies": {
+    "@playwright/test": "^1.56.1",
+    "@shopify/prettier-plugin-liquid": "^1.11.4",
+    "pixelmatch": "^7.1.0",
+    "pngjs": "^7.0.0",
+    "prettier": "^3.9.10"
+  }
 }
