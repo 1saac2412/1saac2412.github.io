@@ -7,5 +7,4 @@ categories: [General]
 
 Welcome to my first post! Write your content here...
 
-
-*Title*
+_Title_

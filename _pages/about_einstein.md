@@ -1,1 +1,1 @@
-Hello! My name is Isaac! I am an undergraduate student whose looking to dive into the world of cybersecurity. This website is meant to showcase my work, as well as, share my thoughts and experiences throughout my journey. Thank you for visiting! 
+Hello! My name is Isaac! I am an undergraduate student whose looking to dive into the world of cybersecurity. This website is meant to showcase my work, as well as, share my thoughts and experiences throughout my journey. Thank you for visiting!
